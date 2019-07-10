@@ -1,0 +1,225 @@
+Plot Report
+-----------
+
+Report Written:     Monday, June 24, 2019
+Project Path:       C:\Users\yuduki\Documents\KRP\circuit\F^3\F^3.prj
+Design Path:        C:\Users\yuduki\Documents\KRP\circuit\F^3\F^3.pcb
+Design Title:       
+Created:            2019/06/22 20:34:31
+Last Saved:         2019/06/24 16:17:30
+Editing Time:       1571 min
+Units:              mm (precision 3)
+
+
+Device Settings
+===============
+
+
+Gerber Settings
+===============
+
+    Leading zero suppression.
+    G01 assumed throughout.
+    Line termination <*> <CR> <LF>.
+    3.5 format absolute inches.
+    Format commands defined in Gerber file.
+    Aperture table defined in Gerber file.
+    Hardware arcs allowed.
+
+
+Drill Settings
+==============
+
+    Excellon Format 1    Format 3.5 absolute in inches.
+    Leading zero suppression.
+
+
+Plots Output
+============
+
+    Plot Job: "C:\Users\yuduki\Documents\KRP\circuit\F^3\F^3.mop"
+
+
+Gerber Output
+=============
+
+C:\Users\yuduki\Documents\KRP\circuit\F^3\F^3 - Top Silkscreen.gbr
+
+    Layers:
+    ------------------
+    Top Silkscreen
+
+    D-Code Shape  (thou)
+    -----------------------
+    D16    Round 5.00
+    D78    Round 1.00
+    D90    Round 7.87
+    D103   Round 9.84
+    D104   Round 1.97
+
+Gerber Output
+=============
+
+C:\Users\yuduki\Documents\KRP\circuit\F^3\F^3 - Top Copper.gbr
+
+    Layers:
+    --------------
+    Top Copper
+
+    D-Code Shape  (thou)
+    -----------------------------------------------
+    D12    Round 66.93
+    D15    Round 56.00
+    D16    Round 5.00
+    D17    Rectangle 25.59 X 39.37
+    D18    Rectangle 25.59 X 39.37  Rotation 90
+    D79    Round 10.00
+    D88    Round 11.81
+    D89    Round 32.00
+    D90    Round 7.87
+    D105   Round 275.59
+    D106   Rectangle 11.81 X 58.07  Rotation 90
+    D107   Rectangle 11.81 X 58.07
+    D108   Rectangle 47.24 X 118.11  Rotation 90
+    D109   Rectangle 47.24 X 59.06  Rotation 90
+    D110   Rectangle 47.24 X 118.11
+    D111   Rectangle 69.69 X 160.24  Rotation 90
+    D112   Rectangle 69.69 X 160.24
+    D113   Rectangle 25.59 X 59.06  Rotation 90
+    D114   Round 19.69
+    D129   Round 15.75
+
+Gerber Output
+=============
+
+C:\Users\yuduki\Documents\KRP\circuit\F^3\F^3 - Top Copper (Resist).gbr
+
+    Layers:
+    --------------
+    Top Copper
+
+    D-Code Shape  (thou)
+    -----------------------------------------------
+    D26    Rectangle 35.59 X 49.37
+    D28    Rectangle 35.59 X 49.37  Rotation 90
+    D74    Round 76.93
+    D116   Round 285.59
+    D117   Rectangle 21.81 X 68.07  Rotation 90
+    D118   Rectangle 21.81 X 68.07
+    D119   Rectangle 57.24 X 128.11  Rotation 90
+    D120   Rectangle 57.24 X 69.06  Rotation 90
+    D121   Rectangle 57.24 X 128.11
+    D122   Rectangle 79.69 X 170.24  Rotation 90
+    D123   Rectangle 79.69 X 170.24
+    D124   Rectangle 35.59 X 69.06  Rotation 90
+
+Gerber Output
+=============
+
+C:\Users\yuduki\Documents\KRP\circuit\F^3\F^3 - Bottom Copper.gbr
+
+    Layers:
+    -----------------
+    Bottom Copper
+
+    D-Code Shape  (thou)
+    -----------------------------------------------
+    D12    Round 66.93
+    D15    Round 56.00
+    D16    Round 5.00
+    D17    Rectangle 25.59 X 39.37
+    D18    Rectangle 25.59 X 39.37  Rotation 90
+    D79    Round 10.00
+    D88    Round 11.81
+    D89    Round 32.00
+    D90    Round 7.87
+    D105   Round 275.59
+    D114   Round 19.69
+    D125   Rectangle 39.37 X 59.06
+    D126   Rectangle 59.06 X 129.92  Rotation 90
+    D129   Round 15.75
+
+Gerber Output
+=============
+
+C:\Users\yuduki\Documents\KRP\circuit\F^3\F^3 - Bottom Copper (Resist).gbr
+
+    Layers:
+    -----------------
+    Bottom Copper
+
+    D-Code Shape  (thou)
+    -----------------------------------------------
+    D26    Rectangle 35.59 X 49.37
+    D28    Rectangle 35.59 X 49.37  Rotation 90
+    D74    Round 76.93
+    D116   Round 285.59
+    D127   Rectangle 49.37 X 69.06
+    D128   Rectangle 69.06 X 139.92  Rotation 90
+
+Gerber Output
+=============
+
+C:\Users\yuduki\Documents\KRP\circuit\F^3\F^3 - Bottom Silkscreen.gbr
+
+    Layers:
+    ---------------------
+    Bottom Silkscreen
+
+    D-Code Shape  (thou)
+    -----------------------
+    D16    Round 5.00
+
+NC Drill Output
+===============
+
+C:\Users\yuduki\Documents\KRP\circuit\F^3\F^3 - Drill Data - [Through Hole].drl
+
+    Output:
+    ---------------------------
+    Plated Round Drill Holes
+    Plated Slots
+    Plated Board Outlines
+
+    Tool  Size           Count   ID
+    --------------------------------------
+    T001  0.00984 inches 1     J
+    T002  0.01181 inches 17    I
+    T003  0.01600 inches 71    H
+    T004  0.03200 inches 2     G
+    T005  0.03937 inches 119   D
+    T006  0.11811 inches 6     A
+    --------------------------------------
+    Total                216
+    --------------------------------------
+
+C:\Users\yuduki\Documents\KRP\circuit\F^3\F^3 - Drill Data - [Through Hole] (Unplated).drl
+
+    Output:
+    -----------------------------
+    Unplated Round Drill Holes
+    Unplated Slots
+    Unplated Board Outlines
+
+    Tool  Size           Count   ID
+    --------------------------------------
+    T001  0.02500 inches 1
+    --------------------------------------
+    Total                1
+    --------------------------------------
+
+
+Gerber Output
+=============
+
+C:\Users\yuduki\Documents\KRP\circuit\F^3\F^3 - Plot 1.gbr
+
+    Layers:
+    ------------------
+    Board Outlines
+
+    D-Code Shape  (thou)
+    -----------------------
+    D16    Round 5.00
+
+End Of Report.

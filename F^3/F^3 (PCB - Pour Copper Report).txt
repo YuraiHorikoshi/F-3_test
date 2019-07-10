@@ -1,0 +1,15 @@
+Pour Copper Report
+------------------
+
+Report Written:     Monday, June 24, 2019
+Project Path:       C:\Users\yuduki\Documents\KRP\circuit\F^3\F^3.prj
+Design Path:        C:\Users\yuduki\Documents\KRP\circuit\F^3\F^3.pcb
+Design Title:       
+Created:            2019/06/22 20:34:31
+Last Saved:         2019/06/24 16:17:23
+Editing Time:       1571 min
+Units:              mm (precision 3)
+
+C3.1 at 499.478,492.633 has no thermal spokes
+
+End Of Report.

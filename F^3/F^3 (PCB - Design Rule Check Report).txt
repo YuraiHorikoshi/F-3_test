@@ -1,0 +1,74 @@
+Design Rule Check Report
+------------------------
+
+Report Written:     Monday, June 24, 2019
+Project Path:       C:\Users\yuduki\Documents\KRP\circuit\F^3\F^3.prj
+Design Path:        C:\Users\yuduki\Documents\KRP\circuit\F^3\F^3.pcb
+Design Title:       
+Created:            2019/06/22 20:34:31
+Last Saved:         2019/06/24 16:16:57
+Editing Time:       1570 min
+Units:              mm (precision 3)
+
+
+Results
+=======
+
+Pad to Board Error (P-B) between (451.485 537.789) and (451.485 538.099) on Layer "[All]".
+    Error between Pad (Net 'GND') and Board, Gap is 0.247 needs to be 1.270.
+Pad to Board Error (P-B) between (447.858 471.424) and (447.675 471.424) on Layer "[All]".
+    Error between Pad (Net 'GND') and Board, Gap is 0.120 needs to be 1.270.
+Pad to Board Error (P-B) between (547.314 534.162) and (547.497 534.162) on Layer "[All]".
+    Error between Pad (Net 'GND') and Board, Gap is 0.120 needs to be 1.270.
+Pad to Board Error (P-B) between (543.560 467.670) and (543.560 467.487) on Layer "[All]".
+    Error between Pad (Net 'GND') and Board, Gap is 0.120 needs to be 1.270.
+Drill Hole to Drill Hole error (D-D) at (544.449 504.317) on layer "[Bottom]".
+Drill Hole to Drill Hole error (D-D) at (544.449 506.857) on layer "[Bottom]".
+
+Number of errors found : 6
+
+
+Settings
+========
+
+
+Spacings
+
+=========
+
+Tracks        Yes
+Pads and Vias Yes
+Shapes        Yes
+Text          Yes
+Board         Yes
+Drills        Yes
+Components    No
+
+
+Manufacturing
+
+==============
+
+Drill Breakout                  No
+Drill Backoff                   No
+Silkscreen Overlap              No
+Copper Text In Board            No
+Min Track Width                 No
+Min Annular Ring                No
+Min Paste Size                  No
+Vias In Pads                    No
+Unplated Vias                   No
+Unplated Pads With Inner Tracks No
+
+
+Nets
+
+=====
+
+Net Completion               No
+Dangling Tracks              No
+Net Track Length Differences No
+
+
+
+End Of Report.

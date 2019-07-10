@@ -1,0 +1,15 @@
+Transfer from Schematic to PCB.
+-------------------------------
+
+Report Written:     Saturday, June 22, 2019
+Design Path:        C:\Users\yuduki\Documents\KRP\circuit\F^3\F^3.pcb
+Design Title:       
+Created:            2019/06/22 20:34:31
+Last Saved:         2019/06/22 20:34:55
+Editing Time:       0 min
+Units:              mm (precision 3)
+
+Could not load component "BUSpad" package "USER" into target design.
+Could not add "C10" component "BUSpad" package "USER" to target design.
+
+End Of Report.
